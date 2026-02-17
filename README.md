@@ -39,8 +39,8 @@ It showcases an **end-to-end data analysis workflow**—from raw data to actiona
 ---
 
 ## 📈 **Results & Key Insights**
-- ✅ Achieved **R² ≈ 0.90**
-- 📉 Reduced prediction error by **~20%** compared to baseline
+- ✅ Achieved **R² ≈ 0.99**
+- 📉 Reduced prediction error by **~0.11%** compared to baseline
 - 💎 **Carat** identified as the **strongest price driver**
 - 📊 Higher **cut & clarity** significantly increase diamond price
 
