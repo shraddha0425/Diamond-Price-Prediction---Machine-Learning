@@ -1,98 +1,61 @@
-# Diamond-Price-Prediction---Machine-Learning
-💎 Diamond Price Prediction using Machine Learning
-📌 Project Overview
+# 💎 **Diamond Price Prediction using Machine Learning**
 
-This project focuses on predicting diamond prices based on key attributes such as carat, cut, color, clarity, depth, and table.
-The goal is to apply data analysis and machine learning techniques to generate accurate price predictions and extract actionable business insights.
+## 📌 **Project Overview**
+This project predicts **diamond prices** using **Machine Learning models** based on key features such as **carat, cut, color, clarity, depth, and table**.  
+It showcases an **end-to-end data analysis workflow**—from raw data to actionable insights.
 
-🎯 Objective
+---
 
-Analyze factors affecting diamond prices
+## 🎯 **Project Objective**
+- 🔍 Identify **key factors influencing diamond prices**
+- 📈 Build accurate **regression models** for price prediction
+- 💡 Deliver **data-driven insights** for business decision-making
 
-Build and evaluate regression models for price prediction
+---
 
-Support data-driven pricing decisions using insights and visuals
+## 📊 **Dataset Information**
+- 📁 **15,000+ diamond records**
+- 🧩 Features: **carat, cut, color, clarity, depth, table**
+- 🎯 Target variable: **price**
 
-📊 Dataset Description
+---
 
-The dataset contains 15,000+ diamond records with the following features:
+## 🛠️ **Tech Stack & Tools**
+- 🐍 **Python**
+- 📊 **Pandas, NumPy**
+- 📉 **Matplotlib, Seaborn**
+- 🤖 **Scikit-learn**
+- 📓 **Jupyter Notebook**
 
-Carat – Weight of the diamond
+---
 
-Cut – Quality of the cut
+## 🔍 **Methodology**
+- 🧹 **Data Cleaning & Preprocessing**
+- 📊 **Exploratory Data Analysis (EDA)**
+- ⚙️ **Feature Engineering & Encoding**
+- 🤖 **Model Training** (Linear Regression, Random Forest)
+- 📏 **Model Evaluation** using **R² Score & RMSE**
 
-Color – Diamond color grading
+---
 
-Clarity – Measure of diamond purity
+## 📈 **Results & Key Insights**
+- ✅ Achieved **R² ≈ 0.90**
+- 📉 Reduced prediction error by **~20%** compared to baseline
+- 💎 **Carat** identified as the **strongest price driver**
+- 📊 Higher **cut & clarity** significantly increase diamond price
 
-Depth & Table – Proportional dimensions
-Price – Target variable
+---
 
-🛠️ Tools & Technologies
+## 🚀 **Future Enhancements**
+- 🔧 Hyperparameter tuning for improved accuracy  
+- 📊 Power BI / Tableau dashboard integration  
+- 🌐 Model deployment using **Streamlit / Flask**
 
-Python
+---
 
-Pandas, NumPy
+## 👤 **Author**
+**Shraddha Shrikant Borade**  
+📊 Aspiring **Business Analyst**  
+💻 Python | SQL | Excel | Power BI | Tableau  
+📜 **ISTQB Certified**
 
-Matplotlib, Seaborn
-
-Scikit-learn
-
-Jupyter Notebook
-
-Excel (EDA support)
-
-🔍 Approach & Methodology
-
-Data Cleaning & Preprocessing
-
-Handled missing values and inconsistencies
-
-Encoded categorical variables
-
-Exploratory Data Analysis (EDA)
-
-Analyzed relationships between features and price
-
-Identified key price-driving factors
-
-Feature Engineering
-
-Improved model performance through transformations and correlations
-
-Model Building
-
-Applied Linear Regression and Random Forest Regressor
-Model Evaluation
-
-Evaluated models using R² Score and RMSE
-
-Achieved R² ≈ 0.90 with optimized model
-
-📈 Key Insights
-
-Carat has the strongest impact on diamond price
-
-Higher cut and clarity significantly increase value
-
-Machine learning models reduced prediction error by ~20% compared to baseline
-
-🚀 Business Value
-
-Enables accurate price estimation
-
-Helps identify key pricing factors
-
-Supports data-driven decision-making in retail and e-commerce domains
-📌 Future Enhancements
-
-Hyperparameter tuning for better accuracy
-
-Integration with Power BI / Tableau dashboards
-
-Deployment using Flask or Streamlit
-
-👤 Author
-
-Shraddha Shrikant Borade
-Aspiring Business Analyst | Data-Driven Decision Making | ISTQB Certified
